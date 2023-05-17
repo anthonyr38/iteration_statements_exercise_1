@@ -1,0 +1,15 @@
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\bin\Debug\net7.0\iteration_statements_exercise_1.exe
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\bin\Debug\net7.0\iteration_statements_exercise_1.deps.json
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\bin\Debug\net7.0\iteration_statements_exercise_1.runtimeconfig.json
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\bin\Debug\net7.0\iteration_statements_exercise_1.dll
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\bin\Debug\net7.0\iteration_statements_exercise_1.pdb
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\obj\Debug\net7.0\iteration_statements_exercise_1.csproj.AssemblyReference.cache
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\obj\Debug\net7.0\iteration_statements_exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\obj\Debug\net7.0\iteration_statements_exercise_1.AssemblyInfoInputs.cache
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\obj\Debug\net7.0\iteration_statements_exercise_1.AssemblyInfo.cs
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\obj\Debug\net7.0\iteration_statements_exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\obj\Debug\net7.0\iteration_statements_exercise_1.dll
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\obj\Debug\net7.0\refint\iteration_statements_exercise_1.dll
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\obj\Debug\net7.0\iteration_statements_exercise_1.pdb
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\obj\Debug\net7.0\iteration_statements_exercise_1.genruntimeconfig.cache
+C:\Users\fulls\OneDrive\Desktop\repos\iteration_statements_exercise_1\iteration_statements_exercise_1\obj\Debug\net7.0\ref\iteration_statements_exercise_1.dll
